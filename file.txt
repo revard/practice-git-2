@@ -1,2 +1,3 @@
 Create file
 Add string 1
+Add string 2
